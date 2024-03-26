@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecyclerViewPractice</string>
+    <string-array name="items">
+        <item>Book</item>
+        <item>Food</item>
+        <item>Fruit</item>
+        <item>Medicine</item>
+        <item>Star</item>
+        <item>World</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>All about books</item>
+        <item>All about food</item>
+        <item>All about fruit</item>
+        <item>All about medicine</item>
+        <item>All about stars</item>
+        <item>All about the World</item>
+    </string-array>
+</resources>
